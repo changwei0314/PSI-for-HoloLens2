@@ -1,3 +1,5 @@
+## PSI for HoloLens2
+
 Platform for Situated Intelligence supports the development of mixed reality applications, from processing the rich multimodal sensor streams to rendering output on the device. For more information on the relevant concepts and components, see the [mixed reality overview](https://github.com/microsoft/psi/wiki/Mixed-Reality-Overview).
 
 This sample project includes some simple demonstrations of how to develop HoloLens 2 applications powered by \\psi.
